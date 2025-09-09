@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useLocation, Link, useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { logout } from "../redux/authSlice";
-import Logo from "../assets/HealthConnectLogo1.png";
+import Logo from "../assets/AveryCareLogo1.png";
 
 // Import icons
 import {
