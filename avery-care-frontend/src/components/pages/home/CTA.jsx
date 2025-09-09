@@ -9,7 +9,7 @@ const CTA = () => {
           Ready to experience the future of healthcare?
         </h1>
         <p className="text-[#101815] text-base sm:text-lg font-normal max-w-2xl">
-          Join HealthConnect today and take control of your health and well-being.
+          Join AveryCare today and take control of your health and well-being.
         </p>
 
         {/*   Button with Link */}

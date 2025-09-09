@@ -25,7 +25,7 @@ const Hero = () => {
                   Your AI-Powered Healthcare Companion
                 </h1>
                 <h2 className="text-white/90 text-base sm:text-lg lg:text-xl font-normal max-w-2xl mx-auto">
-                  HealthConnect provides supportive, AI-driven phone calls to help you manage your health and well-being. Schedule and conduct calls with ease.
+                  AveryCare provides supportive, AI-driven phone calls to help you manage your health and well-being. Schedule and conduct calls with ease.
                 </h2>
               </div>
 

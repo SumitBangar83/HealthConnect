@@ -73,9 +73,9 @@ const Navbar = () => {
   return (
     <header className="relative flex items-center justify-between border-b border-gray-200 px-4 sm:px-6 lg:px-10 py-3 bg-white shadow-xs z-20">
       <Link to={isAdmin ? "/admin-dashboard" : "/"} className="flex items-center gap-3 cursor-pointer">
-        <img src={Logo} alt="HealthConnect Logo" className="w-10 h-10 object-contain" />
+        <img src={Logo} alt="AveryCare Logo" className="w-10 h-10 object-contain" />
         <h2 className="hidden md:block text-[#101815] text-xl font-bold hover:text-[#34a06c] transition-colors">
-          HealthConnect
+          AveryCare
         </h2>
       </Link>
 
